@@ -1,4 +1,4 @@
-ArchLinux | i3wm + Polybar — Configs, and Scripts
+ArchLinux | i3wm + Polybar — Configs, and Scripts...
 At this exact moment in time:
 A biomechanical desktop breathes beneath ArchLinux, choreographed with i3wm, pulsing through custom Polybar scripts, and workspace loaders that summon tools like actors on a stage.
 
